@@ -6,6 +6,10 @@ to be retrained with the same cadence, necessitating an end-to-end pipeline that
 
 In this project you will build such a pipeline.
 
+## Project Links
+GitHub Repo https://github.com/faleks/Project-Build-an-ML-Pipeline-Starter.git
+WB Project https://wandb.ai/faleksa/nyc_airbnb/overview
+
 ## Table of contents
 
 - [Preliminary steps](#preliminary-steps)
